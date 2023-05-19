@@ -1,0 +1,11 @@
+{
+  "name": "bsky",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ipld/car": "^5.1.1",
+    "encodr": "^1.3.4"
+  }
+}
