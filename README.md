@@ -1,5 +1,12 @@
 # ATproto REPO dump
 
+to run:
+
+```sh
+npm install
+node index.js my_repo.car
+```
+
 dumps repos in the form:
 
 ```json
@@ -51,4 +58,5 @@ item with cid:  CID(bafyreihiebzokfpwqqdaw4zdu3hn7uysivzrhg5ocmhdhyp6lefofdiz7a)
 }
 ```
 
-this filters out repo entries that don't have a '$type' field because tbh I don't know what those do yet.
+this filters out repo entries that don't have a '$type' field because tbh I
+don't know what those do yet. please use only for good.
