@@ -1,4 +1,4 @@
-# ATproto REPO dump
+# ATproto repo dump
 
 to run:
 
@@ -9,7 +9,7 @@ node index.js my_repo.car
 
 dumps repos in the form:
 
-```json
+```js
 item with cid:  CID(bafyreicldzhg5stbonbknexwmh3dtmfon3nqoyspcpyqowbefd63l7b3by) and content:  {
   '$type': 'app.bsky.graph.block',
   subject: 'did:plc:2rhgf24qcpdxuscon3gwp6it',
